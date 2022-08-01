@@ -33,9 +33,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 </div>
 
-
-![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddong3301&show_icons=true&theme=radical)
 <h1 align=center>Commit Stats</h1>
-<div align=center>
-  ![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddong3301&show_icons=true&theme=radical)
-</div>
+![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddong3301&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddong3301&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
