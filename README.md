@@ -33,5 +33,5 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 </div>
 
-<h1 align=center>Commit Stats</h1>
+
 ![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddong3301&show_icons=true&theme=radical)
