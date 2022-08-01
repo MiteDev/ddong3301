@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 <a href="https://odhok.tistory.com" target="_blank"><img alt="TISTORY" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssuny303@gmail.com)](mailto:ssuny303@gmail.com)
+<a href="mailto:ssuny303@gmail.com"><img src="img.shields.io/badge/Gmail-EA4335?style=for-the-badge></a>
