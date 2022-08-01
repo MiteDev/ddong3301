@@ -31,8 +31,11 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <h1>Commit Stats</h1>
 </div>
 
-![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddong3301&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddong3301&layout=compact&card_width=445&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align=center>Commit Stats</h1>
+<div align=center>
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ddong3301"&show_icons=true&theme=dracula/></a>
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddong3301&layout=compact&theme=dracula"/></a>
+</div>
+
