@@ -34,7 +34,5 @@
   <h1>Commit Stats</h1>
 </div>
 
-<div>
 ![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddong3301&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddong3301&layout=compact&card_width=445&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
