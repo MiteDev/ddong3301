@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://odhok.tistory.com" target="_blank">TISTORY</a>
+<a href="https://odhok.tistory.com" target="_blank"><img alt="TISTORY" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
