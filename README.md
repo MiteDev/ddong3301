@@ -7,5 +7,8 @@
 
 <h1 align=center>Experienced Skills</h1>
 <div align=center>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <table border=1>
+    <th><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></th>
+    
+  </table>
 </div>
