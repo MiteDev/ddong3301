@@ -35,5 +35,5 @@
 
 <h1 align=center>Commit Stats</h1>
 <div align=center>
-  ![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddong3301&show_icons=true&theme=radical)
+  [![Dong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddong3301&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
