@@ -35,7 +35,6 @@
 
 <h1 align=center>Commit Stats</h1>
 <div align=center>
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ddong3301"&show_icons=true&theme=dracula/></a>
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ddong3301&show_icons=true&theme=dracula"/></a>
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddong3301&layout=compact&theme=dracula"/></a>
 </div>
-
